@@ -1,0 +1,3 @@
+MONGO_DATABASE_NAME='CreditCardFaultDetection'
+MONGO_COLLECTION_NAME='creditdata'
+AWS_S3_BUCKET_NAME='creditcarddefaultdetection'
